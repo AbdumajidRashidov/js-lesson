@@ -50,6 +50,7 @@ sortedFilms.forEach((film, i)=>{
             <div class="delete"></div>
         </li>` 
 })
+//o'zgartirish
 
 
 
